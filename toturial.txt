@@ -1,4 +1,5 @@
 1-raight click on file 
-2-choose online kms(recommended)
-3-choose the product 
-4-wait to activate
+2-run file by power shell
+3-choose online kms(recommended)
+4-choose the product 
+5-wait to activate
